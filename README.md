@@ -2,7 +2,7 @@
 
 ========================================
 
-       Guía para descargar la app
+Guía para descargar la app
 ========================================
 
 ¡Hola! 👋  
